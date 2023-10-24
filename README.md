@@ -18,6 +18,9 @@ The Carbon Emission Tracker is centered around the scraping of carbon emissions 
 ### Interface Plan
 Tkinter will be used to implement an interface that'll allow for users to collect and interact with carbon emissions data from the web. The data is plotted on a graph and sorted by country such that users will be able to quickly determine which country emits the most carbon into the atmosphere.
 
+### Data Collection and Storage Plan
+Most of the climate data is public through free APIs, which could be used to collect the carbon emissions data needed for analyzing trends and rates of carbon emissions by country. For storage plans, we could use a relational database [from scratch]/json file to store and retrieve data for analyzing. 
+
 ### Data Analysis and Visualiation Plan
 We intend to collect data on a country's carbon emissions over the past 10 years, then proceed to plot the carbon emissions from each year side by side. This'll allow for the the change in carbon emissions over time for two particular countries to be visualized and compared. This helps to accomplish our goal of educating users as to which country contributes the most to climate change and how their contributions have changed over the years, not to mention that it'll also help us to pinpoint what exactly is causing these trends.
 
