@@ -6,6 +6,11 @@ CS122_Advanced_Python_Programming_Final_Project
 
 Carbon Emission Tracker
 
+# Project Description
+
+This is the project of web scraping from the Internet to analyze carbon emission. The basic scope of carbon emission measurement for each country is Vehicle Transportation [car, plane, train] and Household power usage. Graphical User Interface would be used to interact with users. This tracker will track the carbon emissions of each country and plots the data to visually represent the analysis of the carbon emission timeline.
+
+
 # Project Outline/Plan
 
 For this tracker, Tkinter is used to visually interact with users. It allows users to collect carbon emissions data from the web. It plots the data with graphical representation so users can understand which country is emitting the most carbon emissions.
