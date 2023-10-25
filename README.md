@@ -6,7 +6,7 @@ CS122_Advanced_Python_Programming_Final_Project
 Carbon Emission Tracker
 
 ## Authors
-Aung (last-name) and Vincent Nguyen
+Aung Lin and Vincent Nguyen
 
 ## Project Description
 
